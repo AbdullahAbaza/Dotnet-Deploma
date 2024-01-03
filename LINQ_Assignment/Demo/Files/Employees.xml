@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+
+<Employees>
+	<Employee>
+		<Id>1</Id>
+		<Name><![CDATA["Abdullah"]]></Name>
+		<Salary>10000</Salary>
+	</Employee>
+
+	<Employee>
+		<Id>2</Id>
+		<Name>"Ahmed"</Name>
+		<Salary>2000</Salary>
+	</Employee>	
+	<Employee>
+		<Id>3</Id>
+		<Name>"Islam"</Name>
+		<Salary>5000</Salary>
+	</Employee>	
+	<Employee>
+		<Id>4</Id>
+		<Name>"Islam"</Name>
+		<Salary>5000</Salary>
+	</Employee>
+
+</Employees>

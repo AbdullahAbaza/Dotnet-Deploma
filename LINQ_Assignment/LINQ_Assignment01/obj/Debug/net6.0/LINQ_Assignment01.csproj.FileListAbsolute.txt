@@ -1,0 +1,30 @@
+C:\Users\black\Downloads\BackEnd\Route\C#\C# Exam\LINQ_Assignment01\LINQ_Assignment01\bin\Debug\net6.0\LINQ_Assignment01.exe
+C:\Users\black\Downloads\BackEnd\Route\C#\C# Exam\LINQ_Assignment01\LINQ_Assignment01\bin\Debug\net6.0\LINQ_Assignment01.deps.json
+C:\Users\black\Downloads\BackEnd\Route\C#\C# Exam\LINQ_Assignment01\LINQ_Assignment01\bin\Debug\net6.0\LINQ_Assignment01.runtimeconfig.json
+C:\Users\black\Downloads\BackEnd\Route\C#\C# Exam\LINQ_Assignment01\LINQ_Assignment01\bin\Debug\net6.0\LINQ_Assignment01.dll
+C:\Users\black\Downloads\BackEnd\Route\C#\C# Exam\LINQ_Assignment01\LINQ_Assignment01\bin\Debug\net6.0\LINQ_Assignment01.pdb
+C:\Users\black\Downloads\BackEnd\Route\C#\C# Exam\LINQ_Assignment01\LINQ_Assignment01\obj\Debug\net6.0\LINQ_Assignment01.csproj.AssemblyReference.cache
+C:\Users\black\Downloads\BackEnd\Route\C#\C# Exam\LINQ_Assignment01\LINQ_Assignment01\obj\Debug\net6.0\LINQ_Assignment01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\black\Downloads\BackEnd\Route\C#\C# Exam\LINQ_Assignment01\LINQ_Assignment01\obj\Debug\net6.0\LINQ_Assignment01.AssemblyInfoInputs.cache
+C:\Users\black\Downloads\BackEnd\Route\C#\C# Exam\LINQ_Assignment01\LINQ_Assignment01\obj\Debug\net6.0\LINQ_Assignment01.AssemblyInfo.cs
+C:\Users\black\Downloads\BackEnd\Route\C#\C# Exam\LINQ_Assignment01\LINQ_Assignment01\obj\Debug\net6.0\LINQ_Assignment01.csproj.CoreCompileInputs.cache
+C:\Users\black\Downloads\BackEnd\Route\C#\C# Exam\LINQ_Assignment01\LINQ_Assignment01\obj\Debug\net6.0\LINQ_Assignment01.dll
+C:\Users\black\Downloads\BackEnd\Route\C#\C# Exam\LINQ_Assignment01\LINQ_Assignment01\obj\Debug\net6.0\refint\LINQ_Assignment01.dll
+C:\Users\black\Downloads\BackEnd\Route\C#\C# Exam\LINQ_Assignment01\LINQ_Assignment01\obj\Debug\net6.0\LINQ_Assignment01.pdb
+C:\Users\black\Downloads\BackEnd\Route\C#\C# Exam\LINQ_Assignment01\LINQ_Assignment01\obj\Debug\net6.0\LINQ_Assignment01.genruntimeconfig.cache
+C:\Users\black\Downloads\BackEnd\Route\C#\C# Exam\LINQ_Assignment01\LINQ_Assignment01\obj\Debug\net6.0\ref\LINQ_Assignment01.dll
+C:\Users\black\Downloads\BackEnd\Route\C#\05 LINQ\Session 01\LINQ_Assignment01\LINQ_Assignment01\obj\Debug\net6.0\LINQ_Assignment01.csproj.AssemblyReference.cache
+C:\Users\black\Downloads\BackEnd\Route\C#\05 LINQ\Session 01\LINQ_Assignment01\LINQ_Assignment01\obj\Debug\net6.0\LINQ_Assignment01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\black\Downloads\BackEnd\Route\C#\05 LINQ\Session 01\LINQ_Assignment01\LINQ_Assignment01\obj\Debug\net6.0\LINQ_Assignment01.AssemblyInfoInputs.cache
+C:\Users\black\Downloads\BackEnd\Route\C#\05 LINQ\Session 01\LINQ_Assignment01\LINQ_Assignment01\obj\Debug\net6.0\LINQ_Assignment01.AssemblyInfo.cs
+C:\Users\black\Downloads\BackEnd\Route\C#\05 LINQ\Session 01\LINQ_Assignment01\LINQ_Assignment01\obj\Debug\net6.0\LINQ_Assignment01.csproj.CoreCompileInputs.cache
+C:\Users\black\Downloads\BackEnd\Route\C#\05 LINQ\Session 01\LINQ_Assignment01\LINQ_Assignment01\obj\Debug\net6.0\LINQ_Assignment01.dll
+C:\Users\black\Downloads\BackEnd\Route\C#\05 LINQ\Session 01\LINQ_Assignment01\LINQ_Assignment01\obj\Debug\net6.0\refint\LINQ_Assignment01.dll
+C:\Users\black\Downloads\BackEnd\Route\C#\05 LINQ\Session 01\LINQ_Assignment01\LINQ_Assignment01\obj\Debug\net6.0\LINQ_Assignment01.pdb
+C:\Users\black\Downloads\BackEnd\Route\C#\05 LINQ\Session 01\LINQ_Assignment01\LINQ_Assignment01\bin\Debug\net6.0\LINQ_Assignment01.exe
+C:\Users\black\Downloads\BackEnd\Route\C#\05 LINQ\Session 01\LINQ_Assignment01\LINQ_Assignment01\bin\Debug\net6.0\LINQ_Assignment01.deps.json
+C:\Users\black\Downloads\BackEnd\Route\C#\05 LINQ\Session 01\LINQ_Assignment01\LINQ_Assignment01\bin\Debug\net6.0\LINQ_Assignment01.runtimeconfig.json
+C:\Users\black\Downloads\BackEnd\Route\C#\05 LINQ\Session 01\LINQ_Assignment01\LINQ_Assignment01\bin\Debug\net6.0\LINQ_Assignment01.dll
+C:\Users\black\Downloads\BackEnd\Route\C#\05 LINQ\Session 01\LINQ_Assignment01\LINQ_Assignment01\bin\Debug\net6.0\LINQ_Assignment01.pdb
+C:\Users\black\Downloads\BackEnd\Route\C#\05 LINQ\Session 01\LINQ_Assignment01\LINQ_Assignment01\obj\Debug\net6.0\LINQ_Assignment01.genruntimeconfig.cache
+C:\Users\black\Downloads\BackEnd\Route\C#\05 LINQ\Session 01\LINQ_Assignment01\LINQ_Assignment01\obj\Debug\net6.0\ref\LINQ_Assignment01.dll

@@ -1,0 +1,59 @@
+C:\Users\black\Downloads\BackEnd\Route\C#\C# Exam\LINQ_Assignment01\Demo\bin\Debug\net6.0\Demo.exe
+C:\Users\black\Downloads\BackEnd\Route\C#\C# Exam\LINQ_Assignment01\Demo\bin\Debug\net6.0\Demo.deps.json
+C:\Users\black\Downloads\BackEnd\Route\C#\C# Exam\LINQ_Assignment01\Demo\bin\Debug\net6.0\Demo.runtimeconfig.json
+C:\Users\black\Downloads\BackEnd\Route\C#\C# Exam\LINQ_Assignment01\Demo\bin\Debug\net6.0\Demo.dll
+C:\Users\black\Downloads\BackEnd\Route\C#\C# Exam\LINQ_Assignment01\Demo\bin\Debug\net6.0\Demo.pdb
+C:\Users\black\Downloads\BackEnd\Route\C#\C# Exam\LINQ_Assignment01\Demo\obj\Debug\net6.0\Demo.csproj.AssemblyReference.cache
+C:\Users\black\Downloads\BackEnd\Route\C#\C# Exam\LINQ_Assignment01\Demo\obj\Debug\net6.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\black\Downloads\BackEnd\Route\C#\C# Exam\LINQ_Assignment01\Demo\obj\Debug\net6.0\Demo.AssemblyInfoInputs.cache
+C:\Users\black\Downloads\BackEnd\Route\C#\C# Exam\LINQ_Assignment01\Demo\obj\Debug\net6.0\Demo.AssemblyInfo.cs
+C:\Users\black\Downloads\BackEnd\Route\C#\C# Exam\LINQ_Assignment01\Demo\obj\Debug\net6.0\Demo.csproj.CoreCompileInputs.cache
+C:\Users\black\Downloads\BackEnd\Route\C#\C# Exam\LINQ_Assignment01\Demo\obj\Debug\net6.0\Demo.dll
+C:\Users\black\Downloads\BackEnd\Route\C#\C# Exam\LINQ_Assignment01\Demo\obj\Debug\net6.0\refint\Demo.dll
+C:\Users\black\Downloads\BackEnd\Route\C#\C# Exam\LINQ_Assignment01\Demo\obj\Debug\net6.0\Demo.pdb
+C:\Users\black\Downloads\BackEnd\Route\C#\C# Exam\LINQ_Assignment01\Demo\obj\Debug\net6.0\Demo.genruntimeconfig.cache
+C:\Users\black\Downloads\BackEnd\Route\C#\C# Exam\LINQ_Assignment01\Demo\obj\Debug\net6.0\ref\Demo.dll
+C:\Users\black\Downloads\BackEnd\Route\C#\05 LINQ\Session 01\LINQ_Assignment01\Demo\bin\Debug\net6.0\Demo.exe
+C:\Users\black\Downloads\BackEnd\Route\C#\05 LINQ\Session 01\LINQ_Assignment01\Demo\bin\Debug\net6.0\Demo.deps.json
+C:\Users\black\Downloads\BackEnd\Route\C#\05 LINQ\Session 01\LINQ_Assignment01\Demo\bin\Debug\net6.0\Demo.runtimeconfig.json
+C:\Users\black\Downloads\BackEnd\Route\C#\05 LINQ\Session 01\LINQ_Assignment01\Demo\bin\Debug\net6.0\Demo.dll
+C:\Users\black\Downloads\BackEnd\Route\C#\05 LINQ\Session 01\LINQ_Assignment01\Demo\bin\Debug\net6.0\Demo.pdb
+C:\Users\black\Downloads\BackEnd\Route\C#\05 LINQ\Session 01\LINQ_Assignment01\Demo\obj\Debug\net6.0\Demo.csproj.AssemblyReference.cache
+C:\Users\black\Downloads\BackEnd\Route\C#\05 LINQ\Session 01\LINQ_Assignment01\Demo\obj\Debug\net6.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\black\Downloads\BackEnd\Route\C#\05 LINQ\Session 01\LINQ_Assignment01\Demo\obj\Debug\net6.0\Demo.AssemblyInfoInputs.cache
+C:\Users\black\Downloads\BackEnd\Route\C#\05 LINQ\Session 01\LINQ_Assignment01\Demo\obj\Debug\net6.0\Demo.AssemblyInfo.cs
+C:\Users\black\Downloads\BackEnd\Route\C#\05 LINQ\Session 01\LINQ_Assignment01\Demo\obj\Debug\net6.0\Demo.csproj.CoreCompileInputs.cache
+C:\Users\black\Downloads\BackEnd\Route\C#\05 LINQ\Session 01\LINQ_Assignment01\Demo\obj\Debug\net6.0\Demo.dll
+C:\Users\black\Downloads\BackEnd\Route\C#\05 LINQ\Session 01\LINQ_Assignment01\Demo\obj\Debug\net6.0\refint\Demo.dll
+C:\Users\black\Downloads\BackEnd\Route\C#\05 LINQ\Session 01\LINQ_Assignment01\Demo\obj\Debug\net6.0\Demo.pdb
+C:\Users\black\Downloads\BackEnd\Route\C#\05 LINQ\Session 01\LINQ_Assignment01\Demo\obj\Debug\net6.0\Demo.genruntimeconfig.cache
+C:\Users\black\Downloads\BackEnd\Route\C#\05 LINQ\Session 01\LINQ_Assignment01\Demo\obj\Debug\net6.0\ref\Demo.dll
+F:\BackEnd\Route\C#\05 LINQ\Session 01\LINQ_Assignment01\Demo\bin\Debug\net6.0\Demo.exe
+F:\BackEnd\Route\C#\05 LINQ\Session 01\LINQ_Assignment01\Demo\bin\Debug\net6.0\Demo.deps.json
+F:\BackEnd\Route\C#\05 LINQ\Session 01\LINQ_Assignment01\Demo\bin\Debug\net6.0\Demo.runtimeconfig.json
+F:\BackEnd\Route\C#\05 LINQ\Session 01\LINQ_Assignment01\Demo\bin\Debug\net6.0\Demo.dll
+F:\BackEnd\Route\C#\05 LINQ\Session 01\LINQ_Assignment01\Demo\bin\Debug\net6.0\Demo.pdb
+F:\BackEnd\Route\C#\05 LINQ\Session 01\LINQ_Assignment01\Demo\obj\Debug\net6.0\Demo.csproj.AssemblyReference.cache
+F:\BackEnd\Route\C#\05 LINQ\Session 01\LINQ_Assignment01\Demo\obj\Debug\net6.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+F:\BackEnd\Route\C#\05 LINQ\Session 01\LINQ_Assignment01\Demo\obj\Debug\net6.0\Demo.AssemblyInfoInputs.cache
+F:\BackEnd\Route\C#\05 LINQ\Session 01\LINQ_Assignment01\Demo\obj\Debug\net6.0\Demo.AssemblyInfo.cs
+F:\BackEnd\Route\C#\05 LINQ\Session 01\LINQ_Assignment01\Demo\obj\Debug\net6.0\Demo.csproj.CoreCompileInputs.cache
+F:\BackEnd\Route\C#\05 LINQ\Session 01\LINQ_Assignment01\Demo\obj\Debug\net6.0\Demo.dll
+F:\BackEnd\Route\C#\05 LINQ\Session 01\LINQ_Assignment01\Demo\obj\Debug\net6.0\refint\Demo.dll
+F:\BackEnd\Route\C#\05 LINQ\Session 01\LINQ_Assignment01\Demo\obj\Debug\net6.0\Demo.pdb
+F:\BackEnd\Route\C#\05 LINQ\Session 01\LINQ_Assignment01\Demo\obj\Debug\net6.0\Demo.genruntimeconfig.cache
+F:\BackEnd\Route\C#\05 LINQ\Session 01\LINQ_Assignment01\Demo\obj\Debug\net6.0\ref\Demo.dll
+C:\Users\black\Downloads\BackEnd\Route\C#\05 LINQ\Session 02\LINQ_Assignment01\Demo\bin\Debug\net6.0\Demo.exe
+C:\Users\black\Downloads\BackEnd\Route\C#\05 LINQ\Session 02\LINQ_Assignment01\Demo\bin\Debug\net6.0\Demo.deps.json
+C:\Users\black\Downloads\BackEnd\Route\C#\05 LINQ\Session 02\LINQ_Assignment01\Demo\bin\Debug\net6.0\Demo.runtimeconfig.json
+C:\Users\black\Downloads\BackEnd\Route\C#\05 LINQ\Session 02\LINQ_Assignment01\Demo\bin\Debug\net6.0\Demo.dll
+C:\Users\black\Downloads\BackEnd\Route\C#\05 LINQ\Session 02\LINQ_Assignment01\Demo\bin\Debug\net6.0\Demo.pdb
+C:\Users\black\Downloads\BackEnd\Route\C#\05 LINQ\Session 02\LINQ_Assignment01\Demo\obj\Debug\net6.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\black\Downloads\BackEnd\Route\C#\05 LINQ\Session 02\LINQ_Assignment01\Demo\obj\Debug\net6.0\Demo.AssemblyInfoInputs.cache
+C:\Users\black\Downloads\BackEnd\Route\C#\05 LINQ\Session 02\LINQ_Assignment01\Demo\obj\Debug\net6.0\Demo.AssemblyInfo.cs
+C:\Users\black\Downloads\BackEnd\Route\C#\05 LINQ\Session 02\LINQ_Assignment01\Demo\obj\Debug\net6.0\Demo.csproj.CoreCompileInputs.cache
+C:\Users\black\Downloads\BackEnd\Route\C#\05 LINQ\Session 02\LINQ_Assignment01\Demo\obj\Debug\net6.0\Demo.dll
+C:\Users\black\Downloads\BackEnd\Route\C#\05 LINQ\Session 02\LINQ_Assignment01\Demo\obj\Debug\net6.0\refint\Demo.dll
+C:\Users\black\Downloads\BackEnd\Route\C#\05 LINQ\Session 02\LINQ_Assignment01\Demo\obj\Debug\net6.0\Demo.pdb
+C:\Users\black\Downloads\BackEnd\Route\C#\05 LINQ\Session 02\LINQ_Assignment01\Demo\obj\Debug\net6.0\Demo.genruntimeconfig.cache
+C:\Users\black\Downloads\BackEnd\Route\C#\05 LINQ\Session 02\LINQ_Assignment01\Demo\obj\Debug\net6.0\ref\Demo.dll
