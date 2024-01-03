@@ -1,0 +1,48 @@
+C:\Users\hp\OneDrive\سطح المكتب\Workshops\OOP\Assignment 06\Examination System\Examination System\bin\Debug\net5.0\Examination System.exe
+C:\Users\hp\OneDrive\سطح المكتب\Workshops\OOP\Assignment 06\Examination System\Examination System\bin\Debug\net5.0\Examination System.deps.json
+C:\Users\hp\OneDrive\سطح المكتب\Workshops\OOP\Assignment 06\Examination System\Examination System\bin\Debug\net5.0\Examination System.runtimeconfig.json
+C:\Users\hp\OneDrive\سطح المكتب\Workshops\OOP\Assignment 06\Examination System\Examination System\bin\Debug\net5.0\Examination System.runtimeconfig.dev.json
+C:\Users\hp\OneDrive\سطح المكتب\Workshops\OOP\Assignment 06\Examination System\Examination System\bin\Debug\net5.0\Examination System.dll
+C:\Users\hp\OneDrive\سطح المكتب\Workshops\OOP\Assignment 06\Examination System\Examination System\bin\Debug\net5.0\Examination System.pdb
+C:\Users\hp\OneDrive\سطح المكتب\Workshops\OOP\Assignment 06\Examination System\Examination System\obj\Debug\net5.0\Examination System.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\سطح المكتب\Workshops\OOP\Assignment 06\Examination System\Examination System\obj\Debug\net5.0\Examination System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\سطح المكتب\Workshops\OOP\Assignment 06\Examination System\Examination System\obj\Debug\net5.0\Examination System.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\سطح المكتب\Workshops\OOP\Assignment 06\Examination System\Examination System\obj\Debug\net5.0\Examination System.AssemblyInfo.cs
+C:\Users\hp\OneDrive\سطح المكتب\Workshops\OOP\Assignment 06\Examination System\Examination System\obj\Debug\net5.0\Examination System.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\سطح المكتب\Workshops\OOP\Assignment 06\Examination System\Examination System\obj\Debug\net5.0\Examination System.dll
+C:\Users\hp\OneDrive\سطح المكتب\Workshops\OOP\Assignment 06\Examination System\Examination System\obj\Debug\net5.0\refint\Examination System.dll
+C:\Users\hp\OneDrive\سطح المكتب\Workshops\OOP\Assignment 06\Examination System\Examination System\obj\Debug\net5.0\Examination System.pdb
+C:\Users\hp\OneDrive\سطح المكتب\Workshops\OOP\Assignment 06\Examination System\Examination System\obj\Debug\net5.0\Examination System.genruntimeconfig.cache
+C:\Users\hp\OneDrive\سطح المكتب\Workshops\OOP\Assignment 06\Examination System\Examination System\obj\Debug\net5.0\ref\Examination System.dll
+C:\Users\hp\OneDrive\سطح المكتب\Workshops\Examination System\Examination System\bin\Debug\net5.0\Examination System.exe
+C:\Users\hp\OneDrive\سطح المكتب\Workshops\Examination System\Examination System\bin\Debug\net5.0\Examination System.deps.json
+C:\Users\hp\OneDrive\سطح المكتب\Workshops\Examination System\Examination System\bin\Debug\net5.0\Examination System.runtimeconfig.json
+C:\Users\hp\OneDrive\سطح المكتب\Workshops\Examination System\Examination System\bin\Debug\net5.0\Examination System.runtimeconfig.dev.json
+C:\Users\hp\OneDrive\سطح المكتب\Workshops\Examination System\Examination System\bin\Debug\net5.0\Examination System.dll
+C:\Users\hp\OneDrive\سطح المكتب\Workshops\Examination System\Examination System\bin\Debug\net5.0\Examination System.pdb
+C:\Users\hp\OneDrive\سطح المكتب\Workshops\Examination System\Examination System\obj\Debug\net5.0\Examination System.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\سطح المكتب\Workshops\Examination System\Examination System\obj\Debug\net5.0\Examination System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\سطح المكتب\Workshops\Examination System\Examination System\obj\Debug\net5.0\Examination System.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\سطح المكتب\Workshops\Examination System\Examination System\obj\Debug\net5.0\Examination System.AssemblyInfo.cs
+C:\Users\hp\OneDrive\سطح المكتب\Workshops\Examination System\Examination System\obj\Debug\net5.0\Examination System.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\سطح المكتب\Workshops\Examination System\Examination System\obj\Debug\net5.0\Examination System.dll
+C:\Users\hp\OneDrive\سطح المكتب\Workshops\Examination System\Examination System\obj\Debug\net5.0\refint\Examination System.dll
+C:\Users\hp\OneDrive\سطح المكتب\Workshops\Examination System\Examination System\obj\Debug\net5.0\Examination System.pdb
+C:\Users\hp\OneDrive\سطح المكتب\Workshops\Examination System\Examination System\obj\Debug\net5.0\Examination System.genruntimeconfig.cache
+C:\Users\hp\OneDrive\سطح المكتب\Workshops\Examination System\Examination System\obj\Debug\net5.0\ref\Examination System.dll
+D:\Route C39 .net\C# Exam\Answer-20230322T114325Z-001\Answer\Examination System\bin\Debug\net5.0\Examination System.exe
+D:\Route C39 .net\C# Exam\Answer-20230322T114325Z-001\Answer\Examination System\bin\Debug\net5.0\Examination System.deps.json
+D:\Route C39 .net\C# Exam\Answer-20230322T114325Z-001\Answer\Examination System\bin\Debug\net5.0\Examination System.runtimeconfig.json
+D:\Route C39 .net\C# Exam\Answer-20230322T114325Z-001\Answer\Examination System\bin\Debug\net5.0\Examination System.runtimeconfig.dev.json
+D:\Route C39 .net\C# Exam\Answer-20230322T114325Z-001\Answer\Examination System\bin\Debug\net5.0\Examination System.dll
+D:\Route C39 .net\C# Exam\Answer-20230322T114325Z-001\Answer\Examination System\bin\Debug\net5.0\Examination System.pdb
+D:\Route C39 .net\C# Exam\Answer-20230322T114325Z-001\Answer\Examination System\obj\Debug\net5.0\Examination System.csproj.AssemblyReference.cache
+D:\Route C39 .net\C# Exam\Answer-20230322T114325Z-001\Answer\Examination System\obj\Debug\net5.0\Examination System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route C39 .net\C# Exam\Answer-20230322T114325Z-001\Answer\Examination System\obj\Debug\net5.0\Examination System.AssemblyInfoInputs.cache
+D:\Route C39 .net\C# Exam\Answer-20230322T114325Z-001\Answer\Examination System\obj\Debug\net5.0\Examination System.AssemblyInfo.cs
+D:\Route C39 .net\C# Exam\Answer-20230322T114325Z-001\Answer\Examination System\obj\Debug\net5.0\Examination System.csproj.CoreCompileInputs.cache
+D:\Route C39 .net\C# Exam\Answer-20230322T114325Z-001\Answer\Examination System\obj\Debug\net5.0\Examination System.dll
+D:\Route C39 .net\C# Exam\Answer-20230322T114325Z-001\Answer\Examination System\obj\Debug\net5.0\refint\Examination System.dll
+D:\Route C39 .net\C# Exam\Answer-20230322T114325Z-001\Answer\Examination System\obj\Debug\net5.0\Examination System.pdb
+D:\Route C39 .net\C# Exam\Answer-20230322T114325Z-001\Answer\Examination System\obj\Debug\net5.0\Examination System.genruntimeconfig.cache
+D:\Route C39 .net\C# Exam\Answer-20230322T114325Z-001\Answer\Examination System\obj\Debug\net5.0\ref\Examination System.dll
