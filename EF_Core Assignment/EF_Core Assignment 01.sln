@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EF_Core Assignment 01", "EF_Core Assignment 01\EF_Core Assignment 01.csproj", "{8D8A678C-98D6-4FAF-A09C-2A29179FDDDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritanceMapping", "InheritanceMapping\InheritanceMapping.csproj", "{45F5BFCB-2A5F-42DF-A316-A258B986F23E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D8A678C-98D6-4FAF-A09C-2A29179FDDDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D8A678C-98D6-4FAF-A09C-2A29179FDDDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D8A678C-98D6-4FAF-A09C-2A29179FDDDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D8A678C-98D6-4FAF-A09C-2A29179FDDDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45F5BFCB-2A5F-42DF-A316-A258B986F23E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45F5BFCB-2A5F-42DF-A316-A258B986F23E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45F5BFCB-2A5F-42DF-A316-A258B986F23E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45F5BFCB-2A5F-42DF-A316-A258B986F23E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D720255A-A01A-439A-BC8A-1DE2AED640DB}
+	EndGlobalSection
+EndGlobal
