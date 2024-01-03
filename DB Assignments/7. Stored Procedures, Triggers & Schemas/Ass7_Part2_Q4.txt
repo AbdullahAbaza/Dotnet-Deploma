@@ -1,0 +1,73 @@
+-- 4.	Create a stored procedure that determines the maximum, minimum, and average of a given set of -- numbers ( Note : set of numbers as Numbers = '5, 10, 15, 20, 25')
+
+
+CREATE PROCEDURE CalculateStats
+    @Numbers VARCHAR(MAX),
+    @MaxValue INT OUTPUT,
+    @MinValue INT OUTPUT,
+    @AverageValue DECIMAL(10, 2) OUTPUT
+AS
+BEGIN
+    SET NOCOUNT ON;
+
+    DECLARE @NumberTable TABLE (Number INT);
+    DECLARE @NumberList XML;
+
+    -- Convert comma-separated string to XML
+    SET @NumberList = CAST('<Numbers><Number>' + REPLACE(@Numbers, ',', '</Number><Number>') + '</Number></Numbers>' AS XML);
+
+    -- Insert numbers from XML into table variable
+    INSERT INTO @NumberTable (Number)
+    SELECT n.value('.', 'INT')
+    FROM @NumberList.nodes('/Numbers/Number') AS T(n);
+
+    -- Calculate statistics
+    SELECT @MaxValue = MAX(Number),
+           @MinValue = MIN(Number),
+           @AverageValue = AVG(Number)
+    FROM @NumberTable;
+END;
+
+
+DECLARE @Max INT, @Min INT, @Avg DECIMAL(10, 2);
+EXEC CalculateStats @Numbers = '5, 10, 15, 20, 25',
+                    @MaxValue = @Max OUTPUT,
+                    @MinValue = @Min OUTPUT,
+                    @AverageValue = @Avg OUTPUT;
+SELECT @Max AS MaxValue, @Min AS MinValue, @Avg AS AverageValue;
+
+
+
+
+
+
+-- Another Solution
+
+
+Create Procedure CalcMaxMinAngOfGivenSet 
+	@InputSetOfNum varchar(MAX), 
+	@Max int output, 
+	@Min int Output, 
+	@Avg decimal(10, 2) output
+As 
+Begin
+	Declare  @t table (val int)  
+	
+	insert into @t Select cast(value as  int)
+	from string_split(@InputSetOfNum, ',')
+	where Trim(Value) <> ''
+
+	Select @Max = Max(val), @Min= Min(val), @Avg = Avg(val) from @t
+End;
+
+--Drop Procedure dbo.CalcMaxMinAngOfGivenSet;
+
+Declare @input varchar(Max) = '5, 10, 15, 20, 25'
+Declare @MaxValue int, @MinValue int, @AvgValue decimal(10, 2)
+
+Exec CalcMaxMinAngOfGivenSet @InputSetOfNum = @input, 
+							 @Max = @MaxValue output, 
+							 @Min = @MinValue output, 
+							 @Avg = @AvgValue output
+
+Select @MaxValue As MaxValue, @MinValue As MinValue, @AvgValue As AvgValue
